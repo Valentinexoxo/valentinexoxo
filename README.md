@@ -1,2 +1,2 @@
 # datasciencexoxo
-These are projects that explore data science concepts.
+These are lovely projects that explore data science concepts.
